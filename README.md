@@ -47,6 +47,8 @@ Currently, the only 2 tools are `takeScreenshot` and `listScreens`. Your agent c
 
 The tool will return the screenshot as a base64 encoded string.
 
+![image.png](image.png)
+
 ## Tips
 
 Make sure YOLO mode is on and MCP tools protection is off in your Cursor settings for the best experience. You might have to allow Cursor to record your screen on MacOS.
