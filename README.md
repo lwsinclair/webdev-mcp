@@ -1,6 +1,6 @@
 # webdev-mcp
 
-An MCP server that provides useful web development tools via MCP server.
+An MCP server that provides useful web development tools.
 
 ## Usage
 
