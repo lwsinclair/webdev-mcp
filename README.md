@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zueai-webdev-mcp-badge.png)](https://mseep.ai/app/zueai-webdev-mcp)
+
 # webdev-mcp
 
 An MCP server that provides useful web development tools.
